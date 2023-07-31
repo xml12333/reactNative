@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "02-RNCourse",
-    "slug": "02-RNCourse",
+    "name": "02-GoalsApp",
+    "slug": "02-GoalsApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "#1e085a",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
