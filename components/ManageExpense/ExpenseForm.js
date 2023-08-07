@@ -1,4 +1,4 @@
-import { Alert, KeyboardAvoidingView, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Alert, StyleSheet, Text, View } from "react-native";
 import Input from "./Input";
 import { useState } from "react";
 import Button from "../UI/Button";
@@ -64,8 +64,7 @@ const ExpenseForm = ({
     !inputs.date.isValid ||
     !inputs.description.isValid;
   return (
-    <ScrollView style={styles.form}>
-      <KeyboardAvoidingView behavior="position">
+    <View style={styles.form}>
         <Text style={styles.title}>Your Expense</Text>
         <View style={styles.inputsRow}>
           <Input
@@ -114,8 +113,7 @@ const ExpenseForm = ({
             {submitButtonLabel}
           </Button>
         </View>
-      </KeyboardAvoidingView>
-    </ScrollView>
+    </View>
   );
 };
 
