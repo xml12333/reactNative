@@ -9,3 +9,5 @@
 |04| [Category app](https://github.com/xml12333/reactNative/tree/04-category-app)| | ![Thumbnail](info/04-category-app/info_thumbnail.jpg)|
 |05| [Expanse tracker](https://github.com/xml12333/reactNative/tree/05-expanse-tracker)| | ![Thumbnail](info/05-expanse-tracker/info_thumbnail.jpg)|
 |06| [Authentication](https://github.com/xml12333/reactNative/tree/06-authentication)| | ![Thumbnail](info/06-authentication/info_thumbnail.jpg)|
+|07| [Device features](https://github.com/xml12333/reactNative/tree/07-device-features)| | ![Thumbnail](info/07-device-features/info_thumbnail.jpg)|
+|08| [Weather app](https://github.com/xml12333/reactNative/tree/08-weather-app)| | ![Thumbnail](info/08-weather-app/info_thumbnail.jpg)|
