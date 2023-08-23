@@ -12,3 +12,4 @@
 |07| [Device features](https://github.com/xml12333/reactNative/tree/07-device-features)| | ![Thumbnail](info/07-device-features/info_thumbnail.jpg)|
 |08| [Weather app](https://github.com/xml12333/reactNative/tree/08-weather-app)| | ![Thumbnail](info/08-weather-app/info_thumbnail.jpg)|
 |09| [Coffee app](https://github.com/xml12333/reactNative/tree/09-coffee-app)| | ![Thumbnail](info/09-coffee-app/info_thumbnail.jpg)|
+|10| [Fruit shop ui app](https://github.com/xml12333/reactNative/tree/10-fruit-shop-ui-app)| | ![Thumbnail](info/10-fruit-shop-ui-app/info_thumbnail.jpg)|
